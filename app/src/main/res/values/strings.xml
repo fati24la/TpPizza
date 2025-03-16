@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="description">Description :</string>
+    <string name="ingredients">Ingredients :</string>
+    <string name="preparation">Preparation :</string>
+    <string name="duree">35 min</string>
+</resources>
